@@ -1,3 +1,5 @@
+### این پروژه صرفا یک پروژه تمرینی است که دقیقا راس هر دقیقه یک بار زمان را برای ما رندر میگیرد و با استفاده از api دمای هوای شهر سرچ شده را به ما بر میگرداند.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
